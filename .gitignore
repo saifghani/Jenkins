@@ -55,3 +55,5 @@ dkms.conf
 /JenkinsProject/.vs/JenkinsProject
 /JenkinsProject/obj
 /JenkinsProject/bin/Debug/net7.0
+/Project2/bin/Debug/net7.0
+/Project2/obj
