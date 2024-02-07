@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/Jenkins/v17
+/.vs
+/JenkinsProject/.vs/JenkinsProject
+/JenkinsProject/obj
+/JenkinsProject/bin/Debug/net7.0
