@@ -57,3 +57,4 @@ dkms.conf
 /JenkinsProject/bin/Debug/net7.0
 /Project2/bin/Debug/net7.0
 /Project2/obj
+/JenkinsProject/.vs/ProjectEvaluation
